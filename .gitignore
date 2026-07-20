@@ -1,0 +1,17 @@
+# Node / frontend
+node_modules/
+dist/
+.angular/
+.vite/
+
+# Java / backend
+target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
